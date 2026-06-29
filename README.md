@@ -67,11 +67,4 @@ Java` HTML/CSS JavaScript MongoDB
 - Python Programming — HackerRank
 - BSNL Telecommunications Training
 
-## 📊 GitHub Stats
-
-![Mahesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=MaheshBabu8297&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MaheshBabu8297&layout=compact&theme=tokyonight&hide_border=true)
-
-
 *"Chip design is where physics meets precision — every micron matters."*
